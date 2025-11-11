@@ -1,0 +1,41 @@
+💕 HOW TO OPEN YOUR WEDDING CHATBOT 💕
+
+SIMPLE METHOD (Recommended):
+1. Navigate to: C:\Users\CHARLES KOJO MARK\Documents\JUICCYHEARTS
+2. Double-click on "index.html"
+3. It will open in your default web browser
+4. Enjoy your beautiful wedding chatbot!
+
+ALTERNATIVE METHOD:
+1. Open any web browser (Chrome, Firefox, Edge, etc.)
+2. Press Ctrl + O (or File > Open)
+3. Navigate to: C:\Users\CHARLES KOJO MARK\Documents\JUICCYHEARTS
+4. Select "index.html" and click Open
+
+WHAT YOU'LL SEE:
+- A beautiful pink-themed wedding chatbot
+- Welcome message from Justina & Uche
+- 7 menu options to explore:
+  * Love Story (Bride's & Groom's perspectives)
+  * Wishlist (9 gift items with prices)
+  * Cash Gifts (Bank account details)
+  * Event Details (Church & Reception venues, times, colors, contacts)
+  * Gallery Info (Wedding photos)
+  * Send a Message (Direct WhatsApp to bride)
+  * RSVP (Attendance confirmation)
+
+FEATURES:
+✅ No typing required - all button-based navigation
+✅ Easy "Back to Main Menu" buttons
+✅ Beautiful animations and design
+✅ Works on mobile, tablet, and desktop
+✅ Wedding photos as background
+
+SHARING WITH GUESTS:
+To share this with your wedding guests, you can:
+1. Host it on a free web hosting service (Netlify, Vercel, GitHub Pages)
+2. Share the link with your guests
+3. They can access it from any device with internet
+
+Made with 💕 for #JuceeHearts25
+Sunday, 16th November 2025

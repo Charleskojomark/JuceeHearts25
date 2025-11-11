@@ -1,0 +1,62 @@
+💕 JUCEEHEARTS25 CHATBOT - UPDATES SUMMARY 💕
+
+✅ COMPLETED UPDATES:
+
+1. SEND A MESSAGE FEATURE
+   - Now redirects directly to WhatsApp
+   - Opens chat with bride's number: +2348148179788
+   - Pre-filled message: "Hello Justina & Uche! Congratulations on your wedding! 💕 #JuceeHearts25"
+   - Works on both mobile and desktop
+   - Opens in new tab/window
+
+2. EVENT DETAILS - FULLY UPDATED
+   ✓ Event Type: Holy Matrimony & Traditional Marriage Ceremony
+   ✓ Date: Sunday, 16th November 2025
+   
+   ⛪ CHURCH WEDDING:
+   - Venue: SDA Hilltop Church, Ebenma, Ogbor Hill, Aba
+   - Time: 9:00 AM
+   
+   🎉 TRADITIONAL CEREMONY/RECEPTION:
+   - Venue: Matthew Omuala's Compound, opposite Umuakalika Council Hall, Off Ogbor Hill, Aba
+   - Time: 12:00 NOON
+   
+   🎨 COLOURS OF THE DAY:
+   - Purple, Fuchsia Pink, Pink, Gold, Teal Green, and White
+   
+   📞 CONTACT NUMBERS:
+   - 08148179788
+   - 07033227469
+   
+   💫 MESSAGE:
+   - "Celebrating new beginnings: a new chapter of love, peace and blessings."
+
+3. COMPLETE FEATURES LIST:
+   ✅ Love Story (Bride & Groom perspectives)
+   ✅ Wishlist (9 gift items with prices)
+   ✅ Cash Gifts (Bank account details)
+   ✅ Event Details (Complete venue & time info)
+   ✅ Gallery (Wedding photos)
+   ✅ Send Message (WhatsApp integration)
+   ✅ RSVP (Attendance confirmation)
+
+HOW TO TEST:
+1. Open index.html in your browser
+2. Click "Send a Message" from the main menu
+3. Click "Send WhatsApp Message" button
+4. It should open WhatsApp with the bride's number
+5. Check "Event Details" to see all venue information
+
+TECHNICAL DETAILS:
+- WhatsApp integration uses wa.me API
+- Phone number format: 2348148179788 (international format without +)
+- Opens in new tab using window.open()
+- Pre-filled message is URL-encoded for proper formatting
+
+ALL FILES UPDATED:
+✓ script.js - Main functionality
+✓ README.md - Documentation
+✓ HOW_TO_OPEN.txt - User instructions
+
+Made with 💕 for #JuceeHearts25
+Sunday, 16th November 2025
