@@ -40,7 +40,7 @@ One thing led to another, one prayer to another, one self-reflection to another,
             price: "NGN383,615.00"
         },
         {
-            name: "Watching/Laundry Machine",
+            name: "Washing/Laundry Machine",
             price: "NGN163,000.00"
         },
         {
